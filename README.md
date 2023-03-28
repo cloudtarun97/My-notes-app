@@ -38,7 +38,3 @@ npm install
 ```
 npm start
 ```
-
-## Deployment
-App is deployed on Railway: [Notes App](https://notesapp-production-8c87.up.railway.app/)  
-Refer this article on how to: [deploy a django app on Railway](https://dev.to/osahenru/using-railway-app-to-deploy-your-django-project-3ah1)
